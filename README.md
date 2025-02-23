@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005.<br>📚 I'm currently pursuing my bachelor in NSUT .<br>🎯 Goals: I want to collaborate with other developers, fostering a community of learning and sharing knowledge.</p>
+<p align="left">✨ Creating bugs since 2005.<br>🎯 Goals: I want to collaborate with other developers, fostering a community of learning and sharing knowledge.</p>
 
 ###
 
